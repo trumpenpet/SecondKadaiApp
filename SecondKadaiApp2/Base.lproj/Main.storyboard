@@ -25,9 +25,9 @@
                                 <textInputTraits key="textInputTraits"/>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Y5K-os-h2c">
-                                <rect key="frame" x="64" y="568" width="286" height="36"/>
+                                <rect key="frame" x="74.5" y="568" width="265" height="36"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <state key="normal" title="名前を入力しいたら押してね！"/>
+                                <state key="normal" title="名前を入力したら押してね！"/>
                                 <connections>
                                     <segue destination="ykm-m8-tap" kind="show" id="x6x-LT-3vx"/>
                                 </connections>
